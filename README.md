@@ -10,7 +10,7 @@ Sou um desenvolvedor iniciante apaixonado por aprender e criar coisas incríveis
 
 ## 🌱 Estou aprendendo
 
-- JavaScript / Python / Entre Outras
+- JavaScript / Python / Entre Outros
 - Versionamento com Git e GitHub
 - Desenvolvimento web / mobile / Entre Outras
 
