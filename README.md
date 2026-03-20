@@ -10,9 +10,9 @@ Sou um desenvolvedor iniciante apaixonado por aprender e criar coisas incríveis
 
 ## 🌱 Estou aprendendo
 
-- JavaScript / Python / [sua linguagem]
+- JavaScript / Python / Entre Outras
 - Versionamento com Git e GitHub
-- Desenvolvimento web / mobile / [sua área]
+- Desenvolvimento web / mobile / Entre Outras
 
 ## 👯 Procuro colaborar com
 
@@ -29,7 +29,7 @@ Sou um desenvolvedor iniciante apaixonado por aprender e criar coisas incríveis
 ## 📫 Como me encontrar
 
 - **Email**: diego.do.santos13690@gmail.com
-- **LinkedIn**: linkedin.com/in/seu-perfil
+- **LinkedIn**: 
 - **Twitter**: @__llenny__
 
 ## ⚡ Um fato sobre mim
