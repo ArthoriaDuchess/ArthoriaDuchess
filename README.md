@@ -28,9 +28,9 @@ Sou um desenvolvedor iniciante apaixonado por aprender e criar coisas incríveis
 
 ## 📫 Como me encontrar
 
-- **Email**: seu-email@exemplo.com
+- **Email**: diego.do.santos13690@gmail.com
 - **LinkedIn**: linkedin.com/in/seu-perfil
-- **Twitter**: @seu-handle
+- **Twitter**: @__llenny__
 
 ## ⚡ Um fato sobre mim
 
